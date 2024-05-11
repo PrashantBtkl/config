@@ -1,0 +1,4 @@
+{
+  "elixir.pathToElixirLS": "~/.elixir-ls/release/language_server.sh",
+  "svelte.enable-ts-plugin": true
+}
